@@ -20,7 +20,7 @@ Adds a notebox BBCode.
 
 We use automated unit tests to prevent regressions. Check out our build below:
 
-master: [![Build Status](https://github.com/KaileySnay/notebox/workflows/Tests/badge.svg)](https://github.com/KaileySnay/notebox/actions)
+master: [![Build Status](https://github.com/kaileysnay/notebox/workflows/Tests/badge.svg)](https://github.com/kaileysnay/notebox/actions)
 
 ## License
 
